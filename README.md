@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile page!
 
 <!--
 **aaaa0ggMC/aaaa0ggMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on UnlimitedLife and my Blog
+- 🌱 I’m currently learning C++
+- 🤔 I’m looking for help with multithreaded data-syncing solutions
 ![aaaa0ggMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaa0ggMC&show_icons=true&theme=merko)
