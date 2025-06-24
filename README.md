@@ -1,12 +1,8 @@
 ## Welcome to my profile page!
 
 
-<span style='display:flex'>
-  asdadasdadsda
-  sdasdsadasdasd
-  dfasdfdsfsdfd
-  dsdsadasdsdasdddddddddddddddddd
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaa0ggMC&show_icons=true&theme=merko" />
+<span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaa0ggMC&show_icons=true&theme=merko" />
 </span>
 <br/>
 <span>
