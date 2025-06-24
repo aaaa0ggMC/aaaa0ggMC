@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on UnlimitedLife and my Blog
-- 🌱 I’m currently learning C++
-- 🤔 I’m looking for help with multithreaded data-syncing solutions
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaa0ggMC&theme=merko)
 ![aaaa0ggMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaaa0ggMC&show_icons=true&theme=merko)
+
