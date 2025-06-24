@@ -1,7 +1,7 @@
 ## Welcome to my profile page!
 
 
-<span>
+<span style='display:flex'>
   asdadasdadsda
   sdasdsadasdasd
   dfasdfdsfsdfd
