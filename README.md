@@ -2,7 +2,9 @@
 
 
 <span style='display:flex;'>
-  aadsada 
+  <ul>
+    <li>aa</li>
+  </ul> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaa0ggMC&show_icons=true&theme=merko" />
 </span>
 <br/>
