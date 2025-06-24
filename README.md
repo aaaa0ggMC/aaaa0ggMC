@@ -1,9 +1,10 @@
 ## Welcome to my profile page!
 
-<ul>
-  <li>hello</li>
-</ul>
+
 <span>
+  <ul>
+    <li>hello</li>
+  </ul>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaa0ggMC&show_icons=true&theme=merko" />
 </span>
 <br/>
