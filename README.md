@@ -30,8 +30,8 @@
 
 ## I Hope
 As you've seen,I've made no great contributions before.I'm just a nobody in the coding community. But at least -- <br/>
-&emsp;&emsp;I can make myself feel archived and excited.<br/>And this is exactly what I hope myself to be:
-<center>a silent flower that grows in its own way.</center>
+&emsp;&emsp;I can make myself feel archived and excited.<br/>And this is exactly what I hope myself to be: <br/>
+<center>a silent flower that grows in its own way</center>
 
 
 
