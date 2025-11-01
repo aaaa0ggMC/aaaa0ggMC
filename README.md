@@ -13,15 +13,26 @@
 ## Programming Languages I used
 | Language | Focused on |
 | :---:    | :----: |
-| C++ | ComputerGraphics |
+| **C++** | ComputerGraphics |
 | Go | Backend Programming |
 | Typescript & Markdown | Blog |
 | Bash | Configurations |
 
+## This Year I'm Exploring
+| What a Adventure | Appendix |
+| :---:    | :----: |
+| ComputerGraphics | OpenGL,may switch to Vulkan in the next few years |
+| ModernC++ | There are too many things to learn,and I think it's worthwhile | 
+| BackendProgramming | Learning for an organization I joined to make servers |
+| FrontendProgramming | Just for fun and my blog |
+| AI Prompt Writing | I'm trying to craft a roleplay AI prompt gets me |
+| Algorithms | For further improvements and for contests and GPA |
+
 ## I Hope
-As you've seen,I've made no great contributions before.I'm just a nobody in the coding community. <br/>
-But at least - <br/>
-I can make myself feel archived and excited.And this is exactly what I hope myself to be -- a silent flower that grows in its own way.
+As you've seen,I've made no great contributions before.I'm just a nobody in the coding community. But at least -- <br/>
+&emsp;&emsp;I can make myself feel archived and excited.<br/>And this is exactly what I hope myself to be:
+<center>a silent flower that grows in its own way.</center>
+
 
 
 
