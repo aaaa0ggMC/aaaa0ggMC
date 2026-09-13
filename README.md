@@ -1,50 +1,30 @@
-“We, the rustling leaves, have a voice that answers the storms, but who are you so silent?”
-# *Hello! I'm a mere flower* 🌱
+# AVE TIBI!
 **Computer Science Student@HUST**
+## My Bloggg
+[Click Me \>\<!](https://yslwd.eu.org)
 
-## I Enjoy 
-- coding in my *own vibe style* (**not** vibe coding)
-- exploring **Computer Graphics** which is hard but fun
-- beautifying my **ArchLinux** and writing my **own** config
-- drawing,singing,running,exploring... *life beyond the screen*
 
-> ***There are too many things waiting for me to explore.***
+## I Enjoy
+- Coding, now with AI
+- Still loving **Computer Graphics** while still making little progress
+- Using my smooth yet so-called unstable **ArchLinux**
+- Writing embarrassing passages
 
-## Programming Languages I used
+## Top Programming Languages
 | Language | Focused on |
 | :---:    | :----: |
-| **C++** | ComputerGraphics |
+| **C++** | Whatever I Like |
+| Typescript & Markdown | Blog&Tools |
 | Go | Backend Programming |
-| Typescript & Markdown | Blog |
-| Bash | Configurations |
 
-## This Year I'm Exploring
-| What a Adventure | Appendix |
-| :---:    | :----: |
-| ComputerGraphics | OpenGL,may switch to Vulkan in the next few years |
-| ModernC++ | There are too many things to learn,and I think it's worthwhile | 
-| BackendProgramming | Learning for an organization I joined to make servers |
-| FrontendProgramming | Just for fun and my blog |
-| AI Prompt Writing | I'm trying to craft a roleplay AI prompt gets me |
-| Algorithms | For further improvements and for contests and GPA |
+## This Semester I'm Exploring
+- Basic Computer Graphics
+- C++ with static reflection
+- Various Vibe-coding Tools
+- Maybe algorithms when I realized that I am a algonoob
 
-## Currently Developing: [UnlimitedLife-Linux](https://github.com/aaaa0ggMC/UnlimitedLife-Linux)
-A cross-platform game in which you can explore the world the the maximum extent and try unlimited various lives.<br/>
-I know it sounds impossible.<br/>
-But at least I tried<br/>
-Which<br/>
-is also my "unlimitelife"
-
-## I Hope
-As you've seen,I've made no great contributions before.I'm just a nobody in the coding community. But at least -- <br/>
-&emsp;&emsp;I can make myself feel archived and excited.<br/>And this is exactly what I hope myself to be:
-<div align='center'>
-
-a silent flower that grows in its own way
-
-</div>
-
-
+## Currently Developing
+[UnlimitedLife-Linux](https://github.com/aaaa0ggMC/UnlimitedLife-Linux) with AVE Engine (Aaaa0ggmc's Vulkan Engine).
 
 
 
